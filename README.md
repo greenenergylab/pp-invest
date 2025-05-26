@@ -1,5 +1,6 @@
 # Case Study zur Untersuchung der Rentabilität von Investitionen in verschiedenen Kraftwerkstypen
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/greenenergylab/pp-invest/HEAD?urlpath=%2Fdoc%2Ftree%2FCaseStudy_PP_Profitability.ipynb)
+
 Jupyter Notebook zur Wiederholiung der Grundlagen für die wirtschaftliche Bewertung von Kraftwerksinvestitionen im Energiesektor.
 ## Inhalte
 Das Notebook behandelt die systematische Bewertung von Kraftwerksinvestitionen: von der Analyse der Energiemärkte und Cashflow-Berechnung über die Kapitalwertmethode bis hin zur Monte-Carlo-Simulation für Risikoanalysen. Praktische Umsetzung in Excel und Python sowie integrierte Lernkontrolle runden das Material ab.
