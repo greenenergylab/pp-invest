@@ -1,7 +1,7 @@
 # Case Study zur Untersuchung der Rentabilität von Investitionen in verschiedenen Kraftwerkstypen
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/greenenergylab/pp-invest/HEAD?urlpath=%2Fdoc%2Ftree%2FCaseStudy_PP_Profitability.ipynb)
 
-[![Header Picture](https://chatgpt.com/s/m_683566184b0481919408b4d7af6d5ccf)
+[![Header Picture](https://thga.sciebo.de/s/DsKSXrAPd8rDiR9)
 
 Jupyter Notebook zur Wiederholiung der Grundlagen für die wirtschaftliche Bewertung von Kraftwerksinvestitionen im Energiesektor.
 ## Inhalte
