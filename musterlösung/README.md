@@ -1,6 +1,6 @@
 # Energiemanagement Case Study - Investitionsanalyse für Kraftwerke
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DEIN-USERNAME/DEIN-REPOSITORY/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/greenenergylab/pp-invest/tree/main/musterl%C3%B6sung/HEAD?urlpath=%2Fdoc%2Ftree%2FCaseStudy_PP_Profitability_Solution.ipynb)
 
 > 🚀 **Direkt loslegen**: Klicken Sie auf den Binder-Button oben, um das Notebook sofort im Browser zu starten - ohne Installation!
 
